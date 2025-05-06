@@ -1,2 +1,2 @@
-# stp
+# srp
 Semantic Releases Playground
